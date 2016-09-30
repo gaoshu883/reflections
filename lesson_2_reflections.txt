@@ -4,3 +4,7 @@ When I initialize a repository, a file named .git is created at once. In my opin
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is the temporary area for storing the files that you work on in the working directory and then you want to commit to the repository.
 It might offer the file-relative information. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+The command git diff --staged will help us view the difference between the staging area and the most recent commit, so we can find each logical change we have made.
+
