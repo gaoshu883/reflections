@@ -11,3 +11,6 @@ The command git diff --staged will help us view the difference between the stagi
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Sometimes, if we want to try out a new experimental features that we're still not sure will work, but we still want to have a working demo to show our friends when they ask what we're working on. Or we want to make a version of another langurage.
 Branches will protect the real official version from affected by the experimental one, and each branch can stretch forward independently.
+
+How do the diagrams help you visualize the branch structure?
+The commit history is non-linear, and branches themselves store anything about the position of the branches. From diagrams, I can see clearly about the relationship between commits and know how the git log command works and what the detached head stands for.
