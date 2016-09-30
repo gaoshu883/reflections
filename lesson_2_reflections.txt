@@ -8,3 +8,6 @@ It might offer the file-relative information.
 How can you use the staging area to make sure you have one commit per logical change?
 The command git diff --staged will help us view the difference between the staging area and the most recent commit, so we can find each logical change we have made.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Sometimes, if we want to try out a new experimental features that we're still not sure will work, but we still want to have a working demo to show our friends when they ask what we're working on. Or we want to make a version of another langurage.
+Branches will protect the real official version from affected by the experimental one, and each branch can stretch forward independently.
