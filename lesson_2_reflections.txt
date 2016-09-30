@@ -14,3 +14,6 @@ Branches will protect the real official version from affected by the experimenta
 
 How do the diagrams help you visualize the branch structure?
 The commit history is non-linear, and branches themselves store anything about the position of the branches. From diagrams, I can see clearly about the relationship between commits and know how the git log command works and what the detached head stands for.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We will have a combined version of the two branches, and the master label will point to the new commit. The commit stores information about both of its parents. 
