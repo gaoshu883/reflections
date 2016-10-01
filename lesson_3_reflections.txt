@@ -3,3 +3,7 @@ When I have to work in different place on different machine, I would rather use 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because it's not necessary to pull changes having Git automatically, and I want to have option about when and where to pull changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches happen on a single repository, and when you create one, you're creating it on one single repository. Clones involve taking an existing repository and making one just like it. Forks look a lot like a clone, but fork is only used within the context of GitHub, taking existing GitHub repository and making a copy of it.
+When I want to experiment some new features on the existing version, I'll create a new branch instead of commit on the master branch. When I want to have a copy of someone's in the GitHub, I'll fork it to my account. When I fork someone's work and want to continue to work on it in my own machine, I'll clone down and work locally.
