@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When I have to work in different place on different machine, I would rather use a remote than a local one. Romote will give me a lot convenience whenever and wherever I want to work.
