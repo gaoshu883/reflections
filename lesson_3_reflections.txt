@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 When I have to work in different place on different machine, I would rather use a remote than a local one. Romote will give me a lot convenience whenever and wherever I want to work.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because it's not necessary to pull changes having Git automatically, and I want to have option about when and where to pull changes.
