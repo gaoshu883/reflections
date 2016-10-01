@@ -13,3 +13,6 @@ In case there wil be more conflicts between remote and local commit, which can g
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 If there was no Git or GitHub, I would always have copied folders to communicate with multiple people, and more time and labor would be wasted. That's annoying.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I am involved in a complicated project working with multiple people, somwetimes, I might have a new idea about some features and want to share with other people, at this time, it's better for me to create a separate branch to experiment. It's free for me to make changes. But it gets more complicated when I want to stay up-to-date with changes others are making. Directly making changes in master will get me rid of this situation.
