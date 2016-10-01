@@ -10,3 +10,6 @@ When I want to experiment some new features on the existing version, I'll create
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 In case there wil be more conflicts between remote and local commit, which can get us in trouble.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+If there was no Git or GitHub, I would always have copied folders to communicate with multiple people, and more time and labor would be wasted. That's annoying.
